@@ -45,11 +45,11 @@ python script.py
 
 Run this to export as env variables:
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/Kidney-Disease-Classification-MLflow-DVC.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/1902Mahesh/Kidney_disease_classification.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy
+export MLFLOW_TRACKING_USERNAME=1902Mahesh
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
+export MLFLOW_TRACKING_PASSWORD=a55050cac2cf72ea706d6cda346805076d0cc646
 DVC cmd
 dvc init
 dvc repro
